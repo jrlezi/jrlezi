@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrlezi
 - 👀 I’m interested in videogames, videogame developing, watch videogame videos, videogames.
-- 🌱 I’m currently learning C#, PHP, MySQL
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me: twitter.com/jrlezi/, twitch.tv/jrlezi/, instagram.com/jrlezi, fb.com/jrlezi
 
